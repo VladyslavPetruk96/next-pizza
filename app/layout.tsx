@@ -1,4 +1,4 @@
-import { Header } from '@/components/shared/index'
+import { Header } from '@/components/shared'
 import type { Metadata } from 'next'
 import { Nunito } from 'next/font/google'
 import './globals.css'

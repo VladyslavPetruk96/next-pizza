@@ -2,8 +2,8 @@ import { cn } from '@/lib/utils'
 import { ArrowRight, ShoppingCart, User } from 'lucide-react'
 import Image from 'next/image'
 import React from 'react'
-import { Button } from '../ui/index'
-import { Container } from './index'
+import { Button } from '../ui'
+import { Container } from './'
 
 interface Props {
 	className?: string
